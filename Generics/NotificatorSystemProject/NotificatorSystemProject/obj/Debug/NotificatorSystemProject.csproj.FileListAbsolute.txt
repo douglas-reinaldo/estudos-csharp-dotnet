@@ -1,0 +1,7 @@
+C:\Users\dougl\Exercicios_c#_atual\estudos-csharp-dotnet\Generics\NotificatorSystemProject\NotificatorSystemProject\bin\Debug\NotificatorSystemProject.exe.config
+C:\Users\dougl\Exercicios_c#_atual\estudos-csharp-dotnet\Generics\NotificatorSystemProject\NotificatorSystemProject\bin\Debug\NotificatorSystemProject.exe
+C:\Users\dougl\Exercicios_c#_atual\estudos-csharp-dotnet\Generics\NotificatorSystemProject\NotificatorSystemProject\bin\Debug\NotificatorSystemProject.pdb
+C:\Users\dougl\Exercicios_c#_atual\estudos-csharp-dotnet\Generics\NotificatorSystemProject\NotificatorSystemProject\obj\Debug\NotificatorSystemProject.csproj.AssemblyReference.cache
+C:\Users\dougl\Exercicios_c#_atual\estudos-csharp-dotnet\Generics\NotificatorSystemProject\NotificatorSystemProject\obj\Debug\NotificatorSystemProject.csproj.CoreCompileInputs.cache
+C:\Users\dougl\Exercicios_c#_atual\estudos-csharp-dotnet\Generics\NotificatorSystemProject\NotificatorSystemProject\obj\Debug\NotificatorSystemProject.exe
+C:\Users\dougl\Exercicios_c#_atual\estudos-csharp-dotnet\Generics\NotificatorSystemProject\NotificatorSystemProject\obj\Debug\NotificatorSystemProject.pdb
