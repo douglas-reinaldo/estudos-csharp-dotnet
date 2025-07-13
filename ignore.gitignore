@@ -1,0 +1,7 @@
+# Ignora pastas de build e IDE
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.pdb
